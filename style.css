@@ -29,6 +29,10 @@
   color: #10191E;
 }
 
+.header__link:hover {
+  opacity: 0.5S;
+}
+
 .header__link::after {
   content: "!";
 }
